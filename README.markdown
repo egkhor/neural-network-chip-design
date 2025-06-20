@@ -54,7 +54,7 @@ neural-network-chip-design/
 - Generates `chip_defect_data.csv` and `neural_network_metrics.txt` with model accuracy (~88%).
 
 ## Contributing
-See [CONTRIBUTING.md](CONTRIBUTING.md) to add datasets, models, or visualizations.
+See [CONTRIBUTING.md](CONTRIBUTING.markdown) to add datasets, models, or visualizations.
 
 ## License
 MIT License. See [LICENSE](LICENSE).
